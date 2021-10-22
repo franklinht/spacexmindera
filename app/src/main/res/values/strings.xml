@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpaceX Mindera</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="home_company">Company</string>
+    <string name="home_launch">Launches</string>
+    <string name="home_company_info">%1$s was founded by %2$s in %3$s. It has now %4$s employees, %5$s launch sites, and is valued at USD %6$s</string>
+    <string name="home_company_info_error">An error has been occurred when we tried to get the company information</string>
+    <string name="home_launch_history_error">An error has been occurred when we tried to get the all launch history</string>
+    <string name="home_launch_mission_name">Mission:</string>
+    <string name="home_launch_datetime">Date/time:</string>
+    <string name="home_launch_datetime_value">%1$s at %2$s</string>
+    <string name="home_launch_rocketmodel">Rocket:</string>
+    <string name="home_launch_rocketmodel_value">%1$s / %2$s</string>
+    <string name="home_launch_days">Days</string>
+    <string name="home_launch_sincefrom">Launches</string>
+
+    <!-- item actions -->
+    <string name="home_launch_options_message">"How do you want to open this article?"</string>
+    <string name="home_launch_open_wikipedia">Open Wikipedia</string>
+    <string name="home_launch_open_article">Open article</string>
+    <string name="home_launch_open_youtube">Open Youtube</string>
+
+    <!-- Android sample had created this one -->
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
